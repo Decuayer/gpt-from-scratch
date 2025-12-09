@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+model_nutuk/
+model_satranc/
+
+.DS_Store/
